@@ -1,1 +1,60 @@
-
+.header {
+    padding: 5px;
+    background:#ffffff;
+    border-color: #cccccc;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 0px;
+    width: auto;
+}
+h1 {
+    text-align: left;
+    padding: 5px;
+}
+nav {
+    text-align: right;
+    list-style-type: none;  
+}
+ul{
+    text-align: right;
+}
+li {
+    display: inline;
+}
+body {
+    width: 960px;  
+    background: #4aaaa5;
+}
+.mainContainer {
+    background: url(../images/grunge_wall_@2X.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* width: 960px; */
+    
+}
+img {
+    margin: 6px;
+    width: 240px;
+    float: left;
+}
+.mainContent {
+    background:#ffffff;
+    border-color: #dddddd;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 650px;
+    height: 500px;
+    margin: 8px;
+}
+.aside {
+    background-color: #ffffff;
+    width: 270px;
+    background-color: #fff;
+    display: inline;
+}
+.footer {
+    clear: both;    
+    background: whitesmok#666666;
+    text-align: center;
+    margin: auto;
+}
