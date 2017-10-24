@@ -99,3 +99,12 @@ p {
     color: #666;
     padding: 26px;
 }
+@media screen (max-width:980px){
+}
+
+@media screen (max-width:768px) {
+
+}
+@media screen (max-width:640px) {
+
+}
